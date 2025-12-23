@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Allow: /
+
+# Указываем карту сайта
+Sitemap: https://microgreen-tver.ru/sitemap.xml
+
+Host: microgreen-tver.ru
